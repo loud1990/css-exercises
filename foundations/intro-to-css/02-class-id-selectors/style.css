@@ -1,0 +1,17 @@
+p {
+    background-color: rgb(224, 26, 87);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#number-two {
+    color: blue;
+    font-size: large;
+}
+
+.number-three {
+    font-size: 32px;
+}
+#number-four {
+    background-color: greenyellow;
+    font-size: large;
+    font-weight: bold;
+}
